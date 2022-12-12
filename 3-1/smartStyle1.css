@@ -1,0 +1,40 @@
+/* ウィンドウ幅が767pxまでの場合 */
+/* @media  screen and (max-width:767px) { */
+
+
+@media screen and (max-width:767px){
+    #wrapper{
+
+        width:250px;
+    }
+    .head{
+        width:250px;
+    }
+    .right{
+        width:100px;
+    }
+    .footr{
+        width:250px;
+    }
+}
+
+@media screen and (max-width:479px){
+    #wrapper{
+        width:150px
+    }
+    .head{
+        width:150px;
+    }
+    .left{
+        float:none;
+    }
+    .right{
+        float:none;
+        width:150px;
+    }
+    .footer{
+        width:150px;
+        margin-top:250px;
+    }
+}
+
