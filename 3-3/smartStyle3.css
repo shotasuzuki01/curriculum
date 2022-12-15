@@ -1,0 +1,36 @@
+@media screen and (max-width:479px){
+    #wrapper{
+        width:200px
+    }
+    .whiteBox{
+        left:70px;
+        width:60px;
+        height:160px;
+    }
+    .redBox{
+        float:none;
+
+    }
+    .head{
+        height:220px;
+        width:200px;
+    }
+    .left{
+        float:none;
+        height:100px;
+        width:200px;
+    }
+    .right{
+        float:none;
+        height:210px;
+        width:200px;
+    }
+    .orengeBox{
+        top:20px;
+        left:30px;
+        height:170px;
+    }
+    .footer{
+        width:200px;
+    }
+}
